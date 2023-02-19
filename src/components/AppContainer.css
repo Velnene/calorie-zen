@@ -3,6 +3,12 @@
   justify-content: center;
   min-height: 70vh;
   margin-top: 50px;
+  font-family: 'Roboto'
+}
+
+@font-face{
+  src: url('../fonts/roboto.woff') format('woff');
+  font-family: 'Roboto';
 }
 
 .calories {
